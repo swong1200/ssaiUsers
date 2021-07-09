@@ -1,0 +1,2 @@
+header{display:flex;}.menu-item{justify-content:flex-end;}.site-branding__logo{justify-content:center;}
+@media only screen and (max-width:375px){.content{display:flex;}h1{justify-content:center;}}

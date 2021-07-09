@@ -1,0 +1,5 @@
+phoneNumberTooltip:
+  js:
+    js/phoneNumberTooltip.js: {}
+  dependencies:
+    - core/jquery
